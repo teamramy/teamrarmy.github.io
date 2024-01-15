@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost:8080	TRUE	/cramy/	FALSE	1999999999	pll_language	en
+localhost:8080	TRUE	/	FALSE	1999999999	PHPSESSID	993h313s0egf5shlarmiui9gk8
+localhost:8080	TRUE	/	FALSE	1999999999	SameSite	Lax
+localhost:8080	TRUE	/	FALSE	1999999999	sellkit_contact_segmentation	%7B%22browser_language%22%3A%22en%22%2C%22user_device%22%3A%22desktop%22%2C%22ip%22%3A%22%3A%3A1%22%2C%22user_type%22%3A%22returning_visitor%22%2C%22url_query_string%22%3A%7B%220%22%3A%22p%22%2C%222%22%3A%22replytocom%22%7D%7D
+
